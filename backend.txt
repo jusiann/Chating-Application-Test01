@@ -1,2 +1,2 @@
-login register requestler yapuldu
+login regis requestler yapuldu
 home da yapildi la
